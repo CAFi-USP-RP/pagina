@@ -73,7 +73,7 @@
         
         <p>Este espaço foi criado com a finalidade de integrar ainda mais os alunos da <strong>Faculdade de Filosofia, Ciências e Letras de Ribeirão Preto</strong>, a nossa amada <strong>Filô</strong>!</p>
         
-        <p><strong>Quer divulgar sua festa, evento, blog, vaga em república ou o quer que seja aqui no site do CAFi</strong>? Basta entrar em contato via e-mail (<a href="contato.html">cafi.filosofia@gmail.com</a>) ou via <a href="https://www.facebook.com/CAFi-Centro-Acad%C3%AAmico-da-Filosofia-715328805158572">facebook</a>.</p>
+        <p><strong>Quer divulgar sua festa, evento, blog, vaga em república ou o quer que seja aqui no site do CAFi</strong>? Basta entrar em contato via e-mail (<a href="contato.html">cafi.usp@gmail.com</a>) ou via <a href="https://www.facebook.com/CAFi-Centro-Acad%C3%AAmico-da-Filosofia-715328805158572">facebook</a>.</p>
         
         <p>Participem!</p>
 
